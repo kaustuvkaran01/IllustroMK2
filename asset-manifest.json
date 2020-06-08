@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Illustro/static/css/main.808befb9.chunk.css",
-    "main.js": "/Illustro/static/js/main.1ab68731.chunk.js",
-    "main.js.map": "/Illustro/static/js/main.1ab68731.chunk.js.map",
-    "runtime-main.js": "/Illustro/static/js/runtime-main.22421f2f.js",
-    "runtime-main.js.map": "/Illustro/static/js/runtime-main.22421f2f.js.map",
-    "static/css/2.02c2feb7.chunk.css": "/Illustro/static/css/2.02c2feb7.chunk.css",
-    "static/js/2.bd26da87.chunk.js": "/Illustro/static/js/2.bd26da87.chunk.js",
-    "static/js/2.bd26da87.chunk.js.map": "/Illustro/static/js/2.bd26da87.chunk.js.map",
-    "index.html": "/Illustro/index.html",
-    "precache-manifest.a4709b19fe67569ac4a6cb4f97b3db25.js": "/Illustro/precache-manifest.a4709b19fe67569ac4a6cb4f97b3db25.js",
-    "service-worker.js": "/Illustro/service-worker.js",
-    "static/css/2.02c2feb7.chunk.css.map": "/Illustro/static/css/2.02c2feb7.chunk.css.map",
-    "static/css/main.808befb9.chunk.css.map": "/Illustro/static/css/main.808befb9.chunk.css.map",
-    "static/js/2.bd26da87.chunk.js.LICENSE.txt": "/Illustro/static/js/2.bd26da87.chunk.js.LICENSE.txt",
-    "static/media/code.jpg": "/Illustro/static/media/code.5b49f2bd.jpg",
-    "static/media/tab-macbook.png": "/Illustro/static/media/tab-macbook.66c7c1fb.png"
+    "main.css": "/IllustroMK2/static/css/main.808befb9.chunk.css",
+    "main.js": "/IllustroMK2/static/js/main.1b3d787a.chunk.js",
+    "main.js.map": "/IllustroMK2/static/js/main.1b3d787a.chunk.js.map",
+    "runtime-main.js": "/IllustroMK2/static/js/runtime-main.993320ef.js",
+    "runtime-main.js.map": "/IllustroMK2/static/js/runtime-main.993320ef.js.map",
+    "static/css/2.02c2feb7.chunk.css": "/IllustroMK2/static/css/2.02c2feb7.chunk.css",
+    "static/js/2.795f0268.chunk.js": "/IllustroMK2/static/js/2.795f0268.chunk.js",
+    "static/js/2.795f0268.chunk.js.map": "/IllustroMK2/static/js/2.795f0268.chunk.js.map",
+    "index.html": "/IllustroMK2/index.html",
+    "precache-manifest.665a698aa82d7a7e7e305c244164be47.js": "/IllustroMK2/precache-manifest.665a698aa82d7a7e7e305c244164be47.js",
+    "service-worker.js": "/IllustroMK2/service-worker.js",
+    "static/css/2.02c2feb7.chunk.css.map": "/IllustroMK2/static/css/2.02c2feb7.chunk.css.map",
+    "static/css/main.808befb9.chunk.css.map": "/IllustroMK2/static/css/main.808befb9.chunk.css.map",
+    "static/js/2.795f0268.chunk.js.LICENSE.txt": "/IllustroMK2/static/js/2.795f0268.chunk.js.LICENSE.txt",
+    "static/media/code.jpg": "/IllustroMK2/static/media/code.5b49f2bd.jpg",
+    "static/media/tab-macbook.png": "/IllustroMK2/static/media/tab-macbook.66c7c1fb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.22421f2f.js",
+    "static/js/runtime-main.993320ef.js",
     "static/css/2.02c2feb7.chunk.css",
-    "static/js/2.bd26da87.chunk.js",
+    "static/js/2.795f0268.chunk.js",
     "static/css/main.808befb9.chunk.css",
-    "static/js/main.1ab68731.chunk.js"
+    "static/js/main.1b3d787a.chunk.js"
   ]
 }
