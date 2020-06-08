@@ -1,51 +1,51 @@
 {
-  "homepage": "https://kaustuvkaran01.github.io/Illustro",
-  "name": "illustro",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.27",
-    "@fortawesome/free-brands-svg-icons": "^5.12.1",
-    "@fortawesome/react-fontawesome": "^0.1.9",
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.5.0",
-    "@testing-library/user-event": "^7.2.1",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "react-icons-kit": "^1.3.1",
-    "react-made-with-love": "^1.0.1",
-    "react-responsive-carousel": "^3.1.51",
-    "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.0",
-    "react-spring": "^8.0.27",
-    "react-transition-group": "^4.3.0",
-    "styled-components": "^5.0.1",
-    "tachyons": "^4.11.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "gh-pages": "^2.2.0"
-  }
+    "homepage": "https://kaustuvkaran01.github.io/IllustroMK2",
+    "name": "illustro",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.2.27",
+        "@fortawesome/free-brands-svg-icons": "^5.12.1",
+        "@fortawesome/react-fontawesome": "^0.1.9",
+        "@testing-library/jest-dom": "^4.2.4",
+        "@testing-library/react": "^9.5.0",
+        "@testing-library/user-event": "^7.2.1",
+        "react": "^16.13.0",
+        "react-dom": "^16.13.0",
+        "react-icons-kit": "^1.3.1",
+        "react-made-with-love": "^1.0.1",
+        "react-responsive-carousel": "^3.1.51",
+        "react-router-dom": "^5.1.2",
+        "react-scripts": "3.4.0",
+        "react-spring": "^8.0.27",
+        "react-transition-group": "^4.3.0",
+        "styled-components": "^5.0.1",
+        "tachyons": "^4.11.1"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "gh-pages": "^2.2.0"
+    }
 }
